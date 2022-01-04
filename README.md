@@ -1,6 +1,6 @@
 # IllustStore
 
-IllustStore is a self-hosted illustration gallery, that makes Google Photos users feel right at home.
+[WIP] IllustStore is a self-hosted illustration gallery, that makes Google Photos users feel right at home.
 
 ## Features:
 - Clean and intuitive UI for desktop and mobile browsers
